@@ -1,0 +1,85 @@
+<!-- Benefit Section -->
+    <section id="Benefit" class="py-5">
+        <div class="container">
+            <div class="text-center mb-5">
+                <span class="badge text-bg-primary mb-2">Kenapa Belanja di Embun?</span>
+                <h2 class="fw-bold">Semua kebutuhan air minum, lebih mudah.</h2>
+                <p class="text-secondary">Temukan berbagai produk air minum berkualitas sesuai kebutuhanmu</p>
+            </div>
+        </div>
+
+        <div class="d-flex">
+
+            <!-- Benefit 1 -->
+
+            <div class="container">
+                <div class="d-flex align-items-center gap-3">
+                    <div class="Benefit-1 d-flex align-items-center text-center flex-shrink-0 gap-2 p-3">
+                        <div class="text-bg-primary fs-4 p-2 rounded-circle d-flex justify-content-center align-items-center"
+                        style="width: 45px; height: 45px;">
+                            <i class="bi bi-truck" style="font-size: 22px;"></i>
+                        </div>
+                        <div class="d-flex flex-column text-start">
+                            <h1 class="fw-bold mb-1" style="font-size: 15px;">Pengiriman Cepat</h1>
+                            <p class="fw-reguler mb-0" style="font-size: 11px;">*Pesanan sampai dalam Beberapa Menit</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Benefit 2 -->
+
+            <div class="container">
+                <div class="d-flex align-items-center gap-3">
+                    <div class="Benefit-1 d-flex align-items-center text-center flex-shrink-0 gap-2 p-3">
+                        <div class="text-bg-primary fs-4 p-2 rounded-circle d-flex justify-content-center align-items-center"
+                        style="width: 45px; height: 45px;">
+                            <i class="bi bi-truck" style="font-size: 22px;"></i>
+                        </div>
+                        <div class="d-flex flex-column text-start">
+                            <h1 class="fw-bold mb-1" style="font-size: 15px;">Pengiriman Cepat</h1>
+                            <p class="fw-reguler mb-0" style="font-size: 11px;">*Pesanan sampai dalam Beberapa Menit</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="d-flex">
+
+            <!-- Benefit 3 -->
+
+            <div class="container">
+                <div class="d-flex align-items-center gap-3">
+                    <div class="Benefit-1 d-flex align-items-center text-center flex-shrink-0 gap-2 p-3">
+                        <div class="text-bg-primary fs-4 p-2 rounded-circle d-flex justify-content-center align-items-center"
+                        style="width: 45px; height: 45px;">
+                            <i class="bi bi-truck" style="font-size: 22px;"></i>
+                        </div>
+                        <div class="d-flex flex-column text-start">
+                            <h1 class="fw-bold mb-1" style="font-size: 15px;">Pengiriman Cepat</h1>
+                            <p class="fw-reguler mb-0" style="font-size: 11px;">*Pesanan sampai dalam Beberapa Menit</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Benefit 4 -->
+
+            <div class="container">
+                <div class="d-flex align-items-center gap-3">
+                    <div class="Benefit-1 d-flex align-items-center text-center flex-shrink-0 gap-2 p-3">
+                        <div class="text-bg-primary fs-4 p-2 rounded-circle d-flex justify-content-center align-items-center"
+                        style="width: 45px; height: 45px;">
+                            <i class="bi bi-truck" style="font-size: 22px;"></i>
+                        </div>
+                        <div class="d-flex flex-column text-start">
+                            <h1 class="fw-bold mb-1" style="font-size: 15px;">Pengiriman Cepat</h1>
+                            <p class="fw-reguler mb-0" style="font-size: 11px;">*Pesanan sampai dalam Beberapa Menit</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
